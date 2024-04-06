@@ -1,0 +1,7 @@
+.hero{
+    width: 100%;
+    min-height: 100vh;
+    background: url('../../../assets/hero.jpg') no-repeat; /* Set background image and specify no-repeat */
+    background-size: cover; /* Make the background image cover the entire container */
+
+}
