@@ -6,11 +6,10 @@ const Hero = () => {
     <div className="hero container">
         <div className="hero-text">
             <h1>
-            Uncovering art's beauty, one masterpiece at a time.
+            Embark on a journey of artistic discovery.
             </h1>
             <p>
-            Yucateka Gallery stands as a vibrant hub for artistic expression, where every stroke of paint, every sculpted form, and every captured moment holds the power to captivate.
-            Find your connection to the world of art and let it transform your perspective. Explore our diverse collection, attend exhibitions or classes, and immerse yourself in creativity.
+            Yucateka Gallery is a vibrant hub for artistic expression, where each piece holds the power to captivate. Explore diverse cultures and techniques through our curated exhibitions, classes, and workshops. 
             </p>
             <button className="btn">
                 Explore more 🡢
