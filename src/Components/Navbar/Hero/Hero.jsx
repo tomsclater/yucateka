@@ -13,7 +13,7 @@ const Hero = () => {
             Find your connection to the world of art and let it transform your perspective. Explore our diverse collection, attend exhibitions or classes, and immerse yourself in creativity.
             </p>
             <button className="btn">
-                Explore more
+                Explore more 🡢
             </button>
         </div>
     </div>
