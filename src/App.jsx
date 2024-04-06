@@ -1,7 +1,7 @@
 import React from 'react'
+import Hero from './Components/Hero/Hero'
+import Programs from './Components/Programs/Programs'
 import Navbar from './Components/Navbar/Navbar'
-import Hero from './Components/Navbar/Hero/Hero'
-import Programs from './Components/Navbar/Programs/Programs'
 
 const App = () => {
   return (
