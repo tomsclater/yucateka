@@ -9,10 +9,12 @@ nav{
     align-items: center;
     justify-content: space-between;
     z-index: 10;
+    background: #000;
 }
 
 .logo{
     width: 180px;
+    filter: invert(100%); /* Invert the colors of the image */
 }
 nav ul li{
     display: inline-block;
