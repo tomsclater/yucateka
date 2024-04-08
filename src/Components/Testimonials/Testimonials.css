@@ -32,3 +32,8 @@
     width: 50%;
     padding: 20px;
 }
+.user-info img {
+    width: 150px; /* Adjust the width as needed */
+    height: auto; /* Maintain aspect ratio */
+    border-radius: 50%; /* Optional: Apply border radius */
+}
