@@ -5,6 +5,7 @@ import Navbar from './Components/Navbar/Navbar'
 import Title from './Components/Title/Title'
 import About from './Components/About/About'
 import Gallery from './Components/Gallery/Gallery'
+import Testimonials from './Components/Testimonials/Testimonials'
 
 const App = () => {
   return (
@@ -18,7 +19,7 @@ const App = () => {
           <Title subTitle='Gallery' title='View Our Collection'/>
           <Gallery/>
           <Title subTitle='Testimonials' title='What Clients Say'/>
-
+          <Testimonials/>
         </div>
     </div>
   )
