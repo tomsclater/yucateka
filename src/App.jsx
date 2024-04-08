@@ -4,6 +4,7 @@ import Programs from './Components/Programs/Programs'
 import Navbar from './Components/Navbar/Navbar'
 import Title from './Components/Title/Title'
 import About from './Components/About/About'
+import Gallery from './Components/Gallery/Gallery'
 
 const App = () => {
   return (
@@ -11,9 +12,11 @@ const App = () => {
         <Navbar/>
         <Hero/>
         <div className="container">
-          <Title subTitle='Our Gallery' title='What We Offer'/>
+          <Title subTitle='Our Services' title='What We Offer'/>
           <Programs/>
           <About/>
+          <Title subTitle='Gallery' title='View Our Collection'/>
+          <Gallery/>
         </div>
     </div>
   )
