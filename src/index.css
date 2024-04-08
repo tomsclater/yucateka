@@ -31,3 +31,7 @@ a{
     align-items: center;
     justify-content: center;
 }
+.btn.dark-btn{
+    background: #240b5f;
+    color: #fff;
+}
