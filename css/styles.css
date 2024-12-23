@@ -36,7 +36,7 @@ body {
 #mainNav .navbar-brand {
     font-family: "Medula One", serif; /* Keep Medula */
     font-weight: normal; /* Default weight (ignored by Medula but good fallback) */
-    font-size: 2rem; /* Scale down slightly */
+    font-size: 3rem; /* Scale down slightly */
     letter-spacing: -0.8px; /* Add spacing to lighten the look */
 }
 
