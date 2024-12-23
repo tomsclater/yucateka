@@ -1,0 +1,29 @@
+/* Custom Styles */
+
+/* ---------------- Profile */
+.description {
+    font-size: .5rem;
+}
+
+.profile-image img {
+    border-radius: 50%;
+    height: 100%;
+    max-width: 125px;
+    max-height: 125px;
+    margin-top: 40px;
+}
+
+.footer-anchor{
+    text-decoration: none;
+}
+
+@media screen and (min-width: 740px) {
+    .description {
+        font-size: 1.2rem;
+    }
+
+    .profile-image img {
+        max-width: 250px;
+        max-height: 250px;
+  }
+}
