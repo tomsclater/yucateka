@@ -1,8 +1,22 @@
+/* Import Medula One Font */
+@import url('https://fonts.googleapis.com/css2?family=Medula+One&display=swap');
+
+/* Apply Medula One Font */
+body {
+    font-family: "Medula One", serif;
+}
+
 /* Custom Styles */
 
 /* ---------------- Profile */
 .description {
     font-size: .5rem;
+    font-family: "Medula One", serif; /* Ensure description uses Medula */
+}
+
+.custom-font {
+    /* font-size: .5rem; */
+    font-family: "Medula One", serif; /* Ensure description uses Medula */
 }
 
 .profile-image img {
@@ -13,17 +27,27 @@
     margin-top: 40px;
 }
 
-.footer-anchor{
+.footer-anchor {
     text-decoration: none;
+    font-family: "Medula One", serif; /* Apply font to footer links */
+}
+
+/* ---------------- Navbar Branding */
+#mainNav .navbar-brand {
+    font-family: "Medula One", serif; /* Keep Medula */
+    font-weight: normal; /* Default weight (ignored by Medula but good fallback) */
+    font-size: 2rem; /* Scale down slightly */
+    letter-spacing: -0.8px; /* Add spacing to lighten the look */
 }
 
 @media screen and (min-width: 740px) {
     .description {
         font-size: 1.2rem;
+        font-family: "Medula One", serif; /* Media query fallback */
     }
 
     .profile-image img {
         max-width: 250px;
         max-height: 250px;
-  }
+    }
 }
