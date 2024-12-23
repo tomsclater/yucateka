@@ -1,14 +1,9 @@
-![Jondo Studios](docs/site-logo.jpg)
 
 ---
 
-# *John Doe Studios*
+# *Yucateka Art*
 
-John Doe Studios is the online representation of the famous Greek painter. Anyone interested can see some of his artwork available to buy.
-
-John Doe Studios can be accessed by this [link](https://barkode.github.io/art-gallery-team-project/)
-
-![Responsive Mockup](docs/responsive.jpg)
+Yucateka Art is the online gallery of the Artist. Anyone interested can see some of his artwork available to buy.
 
 ---
 ## User Stories
