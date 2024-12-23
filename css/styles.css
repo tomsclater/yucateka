@@ -40,6 +40,11 @@ body {
     letter-spacing: -0.8px; /* Add spacing to lighten the look */
 }
 
+#mainNav .nav-link {
+    font-family: "Medula One", serif !important;
+    font-size: 2rem !important;
+}
+
 @media screen and (min-width: 740px) {
     .description {
         font-size: 1.2rem;
