@@ -38,11 +38,7 @@ Yucateka Art is the online gallery of the Artist. Anyone interested can see some
 
 - On mobile devices: content placed has "narrow style".
 
-![Home Mobile Version](docs/mobile.png)
-
   * On tablet or laptop/desktop: when user see from high resolution device content becomes wider
-
-![Home Tablet/Desktop Version](docs/desktop.png)
 
 ---
 ## Technologies Used
