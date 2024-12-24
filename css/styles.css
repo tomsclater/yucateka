@@ -4,7 +4,7 @@
 
 /* Apply Medula One Font */
 body {
-    font-family: "Medula One", serif;
+    font-family: "Muli", serif; /* Media query fallback */
 }
 
 /* Custom Styles */
@@ -67,8 +67,8 @@ body {
 }
 
 #mainNav .nav-link {
-    font-family: "Medula One", serif !important;
-    font-size: 2rem !important;
+    font-family: "Muli", serif !important; /* Media query fallback */
+    font-size: 1rem !important;
 }
 
 @media screen and (min-width: 740px) {
