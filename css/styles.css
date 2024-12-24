@@ -11,7 +11,7 @@ body {
 
 /* ---------------- Profile */
 .description {
-    font-size: .5rem;
+    font-size: .8rem;
     font-family: "Muli", serif; /* Media query fallback */
 }
 
