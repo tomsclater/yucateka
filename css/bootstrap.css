@@ -3619,6 +3619,7 @@ textarea.form-control-lg {
 }
 
 .nav-link {
+  font-family: "Medula One", serif;
   display: block;
   padding: var(--bs-nav-link-padding-y) var(--bs-nav-link-padding-x);
   font-size: 1rem;
