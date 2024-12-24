@@ -57,7 +57,7 @@ body {
     transform: scale(1.2); /* Slight enlargement */
     box-shadow: 0 4px 15px rgba(37, 211, 102, 0.5); /* Green glow */
   }
-
+ 
 /* ---------------- Navbar Branding */
 #mainNav .navbar-brand {
     font-family: "Medula One", serif; /* Keep Medula */
