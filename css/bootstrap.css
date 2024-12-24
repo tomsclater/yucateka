@@ -3621,7 +3621,7 @@ textarea.form-control-lg {
 }
 
 .nav-link {
-  font-family: "Muli", serif; /* Media query fallback */
+  font-family: "Muli", serif !important; /* Media query fallback */
   display: block;
   padding: var(--bs-nav-link-padding-y) var(--bs-nav-link-padding-x);
   font-size: 1rem;

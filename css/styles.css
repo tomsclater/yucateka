@@ -28,6 +28,10 @@ body {
     margin-top: 40px;
 }
 
+.img-new {
+    max-width: 80%;
+}
+
 .footer-anchor {
     text-decoration: none;
     font-family: "Medula One", serif; /* Apply font to footer links */
